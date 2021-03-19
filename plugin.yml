@@ -1,0 +1,7 @@
+name: RaioClasses
+version: 1.0
+author: Luca
+main: me.raioclasses.Main
+description: Classes
+commands:
+  classe:
